@@ -1,6 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "v":{ "version":"0.0.1"},
+  "products": [    
+    { "id": 1, "name": " Яйцо",  "image": { "id":  1, "image": "https://www.factroom.ru/facts/wp-content/uploads/2013/12/egg-620x465.jpg"}},
+    { "id": 2, "name": " Сахар",  "image": { "id":  2, "image": "http://justcoolidea.ru/wp-content/uploads/2015/02/svojstva-sahara.jpg"}},
+    { "id": 3, "name": " Мука",  "image": { "id":  3, "image": "http://ramkhp.ru/assets/images/2108866.jpeg"}},
+    { "id": 4, "name": " Вода",  "image": { "id":  4, "image": "http://jenskiimir.ru/wp-content/uploads/2012/07/mineralnaya-voda.jpg"}},
+    { "id": 5, "name": " Масло сливочное",  "image": { "id":  5, "image": ""}},
+    { "id": 6, "name": " Крупа манная",  "image": { "id":  6, "image": ""}},
+    { "id": 7, "name": " Творог",  "image": { "id":  7, "image": ""}},
+    { "id": 8, "name": " Сливки",  "image": { "id":  8, "image": ""}},
+    { "id": 9, "name": " Сливки жирность 10%",  "image": { "id":  9, "image": ""}},
+    { "id": 10, "name": " Сливки жирность 20%",  "image": { "id":  10, "image": ""}},
+    { "id": 11, "name": " Сливки жирность 30%",  "image": { "id":  11, "image": ""}},
+    { "id": 12, "name": " Сливки жирность 33%",  "image": { "id":  12, "image": ""}}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
